@@ -1,0 +1,12 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'futura', sans-serif;
+}
+
+form{
+    
+    width: 100px;
+    border: 1px solid gray;
+}
+
+#email{
+}
