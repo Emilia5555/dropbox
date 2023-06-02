@@ -129,26 +129,19 @@ form {
 
 
 footer{
-
-    align-items: center;
     background-color: black;
     color: white;
-    padding: 160x;
+    padding: 20px;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    overflow: hidden;   
+    font-weight: 600;
 }
 
-ul {
-list-style-type: none;
-}
 
-li {
+.flex{
+    display: flex;
+    justify-content: space-around;
 
-    float: left;
-    color: white;
-    text-align: center;
-    padding: 18px;
 }
